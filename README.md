@@ -1,4 +1,4 @@
-# SSL_Daniela_Marseev_2023
+# SSL
 
 ## Sintaxis y semántica de los Lenguajes
 * **Curso:** K2054
