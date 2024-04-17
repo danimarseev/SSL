@@ -24,7 +24,9 @@ Para poder ejecutar el programa se deben seguir los siguientes pasos (UBUNTU):
 
    
 2. Una vez descargado el repositorio o solamente el archivo hello.c, ejecutarlo con los siguientes comandos:
+   
     2.1. Posicionarse dentro de la carpeta donde se encuentra el archivo hello.c
+   
     2.2. Compilar el programa para obtener un ejecutable
       ```
     gcc -o hello.out hello.c
